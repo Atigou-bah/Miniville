@@ -1,0 +1,10 @@
+.godot/
+*.exe
+*.pck
+__pycache__/
+venv/
+*.apk
+*.aar
+*.so
+*.x86_64
+Version_mobile/mini-ville/android/build/
